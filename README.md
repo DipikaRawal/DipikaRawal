@@ -6,6 +6,9 @@
 
 <h2>🔭 I’m currently working on web development using React</h2>
 
+<h2>📄 Portfolio:</h2>https://portfolio-dipika.vercel.app/
+
+
 <h2>📄 Know my experiences:</h2>https://drive.google.com/file/d/1OJHTn5KsH9jyi9rAYRyr0oxQaj-5Cxb_/view?usp=sharing]
 
 <br>
